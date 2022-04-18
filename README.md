@@ -34,7 +34,7 @@ Consumir API no backend
         <a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Rocketseat</a>
     </li>
     <li>Canal:
-        <a href="https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag">Consumindo API no Front e no Back-end | CodeDrops #45</a>
+        <a href="https://www.youtube.com/watch?v=vYlz3SmNXQQ">Consumindo API no Front e no Back-end | CodeDrops #45</a>
     </li>
 </ul>
 </p>
